@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[54050,["/aspire-india-preview/_next/static/chunks/d696c76f59859987.js","/aspire-india-preview/_next/static/chunks/83e4ad1e63fb67fe.js"],"default"]
+3:I[87319,["/aspire-india-preview/_next/static/chunks/d696c76f59859987.js","/aspire-india-preview/_next/static/chunks/83e4ad1e63fb67fe.js"],"default"]
+0:{"buildId":"z4WCZoRBFCr4QJ2kfgrwj","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

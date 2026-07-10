@@ -1,0 +1,6 @@
+:HL["/aspire-india-preview/_next/static/chunks/93ac2d54f71ec8d4.css","style"]
+:HL["/aspire-india-preview/_next/static/chunks/4cb8fd2be2ab9861.css","style"]
+:HL["/aspire-india-preview/_next/static/chunks/911dc141d18e062b.css","style"]
+:HL["/aspire-india-preview/_next/static/chunks/018d71725d2ffa10.css","style"]
+:HL["/aspire-india-preview/_next/static/chunks/9eee1dbcff31aa4f.css","style"]
+0:{"buildId":"z4WCZoRBFCr4QJ2kfgrwj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
