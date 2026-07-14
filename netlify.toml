@@ -1,0 +1,10 @@
+# Static pre-built site — no build step, publish the repo root as-is.
+[build]
+  publish = "."
+  command = ""
+
+# Serve the exported 404 page for unknown routes.
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
