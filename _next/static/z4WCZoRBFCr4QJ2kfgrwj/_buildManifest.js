@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/aspire-india-preview//_next/:path+",
-        "destination": "/aspire-india-preview/_next/:path+"
+        "source": "//_next/:path+",
+        "destination": "/_next/:path+"
       }
     ],
     "fallback": []
